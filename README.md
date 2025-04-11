@@ -20,6 +20,6 @@
   - 최종 결과 :
   ![image](https://github.com/user-attachments/assets/0d6f73f9-c328-4ea4-b2b3-9bd68e1e4168)
 
-    
+    * chd 1065명 참여 > 최종 75등 7.06 % 달성 
 
 
