@@ -20,6 +20,10 @@
   - 최종 결과 :
   ![image](https://github.com/user-attachments/assets/0d6f73f9-c328-4ea4-b2b3-9bd68e1e4168)
 
-    ※ 총 1065명 참여, 75등 달성, 상위 7.5% 달성 
+    ※ 총 1065명 참여, 75등 달성, 상위 7.5% 달성
+
+
+- 소감 :
+  
 
 
